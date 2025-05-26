@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "F6Qwluo/dwKRwBl8xmnNPr7QJV083Wo8QJN/5Mrk1Q0=",
+  "Source": "LMSBackend.API",
+  "BasePath": "_content/LMSBackend.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
